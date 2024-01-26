@@ -1,3 +1,4 @@
+![image](./960x0.webp)
 # Python Package Installation
 
 Welcome my attempt at a python LLM. To get started, you'll need to install some essential packages. Simply run the following command: 
